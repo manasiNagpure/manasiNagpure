@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @manasiNagpure
-- 👀 I’m interested in python,web development and data science.
+- 👀 I’m interested in python, AI and data science.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing right now.
-- 📫 How to reach me twitter.
+- 📫 How to reach me twitter @ManasiNagpure.
 
 <!---
 manasiNagpure/manasiNagpure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
